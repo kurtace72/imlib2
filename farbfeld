@@ -1,0 +1,2 @@
+x.2ff < image.png=$x | filter1 [arg ...] | filter2 [arg ...] | ... | ff2png > image_edited.png
+
